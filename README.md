@@ -3,6 +3,7 @@ A half-Gaussian fitting method to estimate green cover of vegetated area from UA
 
 Half-Gaussian fitting for fractional vegetation cover (HAGFVC) estimation has ability to accurately estimate green cover from UAV or other low-altitude remote sensing RGB images. The advantage of HAGFVC method is that it can minimize the negative effect of mixed pixel in image classification and characterize scale-invariant to some extent.
 
+![image](https://github.com/ludwig1860/HAGFVC/blob/master/images/flowchart.png)
 
 If you have interests on this code, don't hesitate to use it.
 If you have problems in the usage, please contact me.
